@@ -2,7 +2,6 @@
 layout: post
 title: Simple vacuum
 ---
-# Basic vacuum cleanter
 This is the first practical excersise of the subject, so first i had to
 familiarize with unibotics and the tools we would be using. So firstly, i added
 to the code the lasser functionality and tried some simple movements like moving
