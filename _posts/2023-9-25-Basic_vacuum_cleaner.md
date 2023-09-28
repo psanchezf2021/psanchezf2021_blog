@@ -127,7 +127,7 @@ if(distance_check(laser) or HAL.getBumperData().state == 1):
 Then, after adjusting times and speeds the final program is finished. Notice
 that because the turns are random, it has a hard time getting out of corners.
 
-![video_p1](blob:https://urjc-my.sharepoint.com/17184289-e2a4-4fba-a7c5-ff1290087c1e)
+[video_p1.webm](https://github.com/psanchezf2021/robotica_movil_blog/assets/92941198/52cf07d3-0be3-4288-bf00-f17517c72023)
 
 The video might have bad quality due to filming it while running the program
 and then having converted it into a gif.
