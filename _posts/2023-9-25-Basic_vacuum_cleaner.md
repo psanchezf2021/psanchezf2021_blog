@@ -90,7 +90,7 @@ def state_turn():
     HAL.setW(0)
 ```
 
-Next I added randomness to its direction using random.random().
+Next I added randomness to the turn's direction and duration using random.random().
 
 ```
 def state_turn():
@@ -99,3 +99,35 @@ def state_turn():
     else:
         HAL.setW(-1)
 ```
+
+Now that i have a more or less working program, I ran some test on it. This is
+is when i discovered an event which I call the Sisyphus robot, it consists on
+the robot entering the most closed room and not being able to exit the room
+not mattering how long it tried.
+
+![sisyphus](../images/sisyphus.png)
+
+At this point i started working on the functionality for the spirals, but I 
+noticed that with functions acting as the states I was overcomplicating the
+program and I would run into some problems in the near future. So I decided to
+reestructure the whole code and changing each state to be a case in a if/else
+structure. While I was doing this, I added the spiral state, which would
+activate at a random chance while the robot is in the forward state.
+
+Running one of the test I noticed that two pieces of forniture have a thin layer
+that the lasser is unable to detect, but it collides with the robot, so i added
+the detection by bumber to avoid this.
+
+```
+if(distance_check(laser) or HAL.getBumperData().state == 1):
+    HAL.setV(0)
+    state = "back"
+```
+
+Then, after adjusting times and speeds the final program is finished. Notice
+that because the turns are random, it has a hard time getting out of corners.
+
+![video_p1](../images/video_p1.gif)
+
+The video might have bad quality due to filming it while running the program
+and then having converted it into a gif.
