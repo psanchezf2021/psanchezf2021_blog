@@ -127,7 +127,7 @@ if(distance_check(laser) or HAL.getBumperData().state == 1):
 Then, after adjusting times and speeds the final program is finished. Notice
 that because the turns are random, it has a hard time getting out of corners.
 
-![video_p1]([blob:https://urjc-my.sharepoint.com/c2398650-1c04-4d4f-8c70-cd5b695f901f](https://urjc-my.sharepoint.com/:i:/r/personal/p_sanchezf_2021_alumnos_urjc_es/Documents/video_p1.gif?csf=1&web=1&e=YjLdJT)https://urjc-my.sharepoint.com/:i:/r/personal/p_sanchezf_2021_alumnos_urjc_es/Documents/video_p1.gif?csf=1&web=1&e=YjLdJT)
+![video_p1](https://urjc-my.sharepoint.com/:i:/g/personal/p_sanchezf_2021_alumnos_urjc_es/EYkl86Ate5tDr1aPJrsndLABqMZLXpisLWOPFwTxx3A6lQ?e=yB3z1z)
 
 The video might have bad quality due to filming it while running the program
 and then having converted it into a gif.
