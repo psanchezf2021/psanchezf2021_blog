@@ -14,7 +14,7 @@ Whith this done I started working on the controller. Firstly with a simple propo
 
 ![contours](../images/contours.png)
 
-This was easily fixed by cropping the top half of the image. 
+This was easily fixed by cropping the top half of the image. I also cropped some of the bottom to improve the detection.
 
 ![cropped](../images/cropped.png)
 
@@ -26,6 +26,9 @@ d = kd * ((err - last_err) / elapsed_time)
 elapsed_time is the time passed between the last postition of the center and the actual one.
 
 Then I divided the PD int two, one for the staight lines and the other for the turns. Which one is used is determined by the error and if its high or low. The differences between the PDs are the values of kp and kd and the reduction of the linear speeds on the turns.
+
+[video_p2.webm](https://github.com/psanchezf2021/robotica_movil_blog/assets/92941198/d6fd920c-ded0-4438-a77c-b1e261cb4b46)
+
 
 After that, I moved the center of the image to the right because the camera isn't placed exactly on the center of the car.
 
