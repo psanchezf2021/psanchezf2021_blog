@@ -27,9 +27,8 @@ elapsed_time is the time passed between the last postition of the center and the
 
 Then I divided the PD int two, one for the staight lines and the other for the turns. Which one is used is determined by the error and if its high or low. The differences between the PDs are the values of kp and kd and the reduction of the linear speeds on the turns.
 
-[video_p2.webm](https://github.com/psanchezf2021/robotica_movil_blog/assets/92941198/d6fd920c-ded0-4438-a77c-b1e261cb4b46)
-
-
 After that, I moved the center of the image to the right because the camera isn't placed exactly on the center of the car.
 
 Finally, the time to configure kp and kd came and after a lot of tries and time spent, the car makes a lap under 2 minutes in the mayority of the tries. This process was especially long because first, i had to change the configuration of unibotics to remote due to the program putting too much stress on the computer, and secondly due to the camera not working properly in some cases leaving the car blind.
+
+[video_p2.webm](https://github.com/psanchezf2021/robotica_movil_blog/assets/92941198/d6fd920c-ded0-4438-a77c-b1e261cb4b46)
