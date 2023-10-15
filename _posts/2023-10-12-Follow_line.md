@@ -32,3 +32,5 @@ After that, I moved the center of the image to the right because the camera isn'
 Finally, the time to configure kp and kd came and after a lot of tries and time spent, the car makes a lap under 2 minutes in the mayority of the tries. This process was especially long because first, i had to change the configuration of unibotics to remote due to the program putting too much stress on the computer, and secondly due to the camera not working properly in some cases leaving the car blind.
 
 [video_p2.webm](https://github.com/psanchezf2021/robotica_movil_blog/assets/92941198/d6fd920c-ded0-4438-a77c-b1e261cb4b46)
+
+Notice that the program is loading in the first seconds of the video.
