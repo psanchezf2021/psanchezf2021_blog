@@ -8,4 +8,9 @@ With this done I used the code given to us to draw a simple gradient in order to
 
 With the obstacle list, the obstacle pixels' cost are increased by 1000, and its surrounding pixels by 10, to avoid the car to go too close to the walls. Then the gradient is drawn.
 
-After the gradient is done, I started working on the navigation, for the car to follow the nearest path, it searches the lowest cost pixel in an square of 10x10 pixels. This pixel is set as the atraction point for the car in each loop. Lastly, the linear sleep is set to get slower as it comes closer to the point and the angular speed is set for the car to orientate towards the said point.
+After the gradient is done, I started working on the navigation, for the car to follow the nearest path, it searches the lowest cost pixel in an square of 10x10 pixels. This pixel is set as the atraction point for the car in each loop. Lastly, the linear sleep is set to get slower as it comes closer to the point and the angular speed is set for the car to orientate towards the said point. After hours of the car not going were it should, I added the absolute2relative function from the previous practice to make target_x and target_y and then set the linear speed to target_x and the angular speed to target_y. As the car collisioned with the corners, I increased the pixels who's cost would be incremented by 10.
+
+This is the result:
+
+
+Notice that I wasn't able to make the gradient be drawn faster, not mattering what I tried, and that the path is not drawn in the map, this is because I lacked the time but also because it seemed unnecesary for the program to work.
