@@ -4,6 +4,8 @@ title: Global navigation
 ---
 To start de development of this practice, I made a simple code to draw a path directly from the car to the selected target using the function showpath.
 
+![path](https://github.com/psanchezf2021/robotica_movil_blog/assets/92941198/8eb2accc-e1f1-46cf-9e8a-8cf0674e011e)
+
 With this done I used the code given to us to draw a simple gradient in order to get to know the necessary functions to use. Then, I started working on the real gradient. By taking into acount the instructions given to us, I used a priority queue to take new points and draw its surroundings. The gradient is only done until the car is found and with a series of ifs, the possible points to expand are discarded deppending on its conditions. When one of the points is an obstacle, it is added to an obstacle list, this will be important for the next step. At this point the making of the gradient is really slow, so I will need to work on that.
 
 With the obstacle list, the obstacle pixels' cost are increased by 1000, and its surrounding pixels by 10, to avoid the car to go too close to the walls. Then the gradient is drawn.
