@@ -12,5 +12,6 @@ After the gradient is done, I started working on the navigation, for the car to 
 
 This is the result:
 
+[Screencast from 12-05-2023 10:59:13 PM.webm](https://github.com/psanchezf2021/robotica_movil_blog/assets/92941198/a557b3c8-e4ad-4973-b089-2ebf35b86e85)
 
 Notice that I wasn't able to make the gradient be drawn faster, not mattering what I tried, and that the path is not drawn in the map, this is because I lacked the time but also because it seemed unnecesary for the program to work.
