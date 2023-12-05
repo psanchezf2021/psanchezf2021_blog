@@ -16,4 +16,4 @@ This is the result:
 
 [video_p4.webm](https://github.com/psanchezf2021/robotica_movil_blog/assets/92941198/48e8eb6f-d42c-421b-ba6e-a27a28c1d52d)
 
-Notice that I wasn't able to make the gradient be drawn faster, not mattering what I tried, and that the path is not drawn in the map, this is because I lacked the time but also because it seemed unnecesary for the program to work.
+Notice that I wasn't able to make the gradient be drawn faster, not mattering what I tried (that is why I put the target so close to the car), and that the path is not drawn in the map, this is because I lacked the time but also because it seemed unnecesary for the program to work.
