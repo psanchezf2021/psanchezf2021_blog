@@ -32,7 +32,7 @@ def get_beam_particle(particle):
     return world_laser_xy
 ```
 
-Also in this function I implmented the functionality for taking one out of 10 laser beams in order to make the program faster.
+Also in this function I implmented the functionality for taking one out of 20 laser beams in order to make the program faster.
 I also added an if to not take into account the particles that were ouside the map.
 
 After that, I started working on the assignment of weights, changing the function compute_particle_weights to my needs. Here I also added multiprocessing to my program, using to full capacity all my processors.
