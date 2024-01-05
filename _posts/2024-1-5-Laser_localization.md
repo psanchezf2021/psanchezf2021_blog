@@ -62,10 +62,10 @@ for beam in laser_particle:
 
 After all this methods of making the program faster it was still going really slow, to the point where the robot started moving like it wasn't supposed to.
 
-video
+[video_slow_p5.webm](https://github.com/psanchezf2021/robotica_movil_blog/assets/92941198/a3d8c2c7-5345-4fff-a934-d0d7bad4ec8e)
 
 Thaks to the help of some classmates I noticed that the slowness was caused by HAL's virtual_laser_beam, that had to be called each time a virtual laser beam had to be made. This was easily solved by implementing the same function but in my program. This made the program run as smoothly as ever.
 
-video
+[video_final_p5.webm](https://github.com/psanchezf2021/robotica_movil_blog/assets/92941198/53f9d2dc-cbfb-492a-85b0-88390240902f)
 
 It is not perfect and quite random, but i'm sure that with a better pc it would be able to process more particles and more laser beams, making it more precise.
