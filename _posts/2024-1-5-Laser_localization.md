@@ -57,7 +57,7 @@ Then to obtain the weights on each of this processes, I compared each robot's la
 for beam in laser_particle:
     error = abs(abs(beam[0]) - abs(laser_robot[cont][0])) + abs(abs(beam[1]) - abs(laser_robot[cont][1]))
     weight += 1/(error+0.001) 
-    cont += 10
+    cont += 20
 ```
 
 After all this methods of making the program faster it was still going really slow, to the point where the robot started moving like it wasn't supposed to.
