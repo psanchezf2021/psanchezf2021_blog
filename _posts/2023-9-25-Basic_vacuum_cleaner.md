@@ -131,3 +131,5 @@ that because the turns are random, it has a hard time getting out of corners.
 
 The video might have bad quality due to filming it while running the program
 and then having converted it into a gif.
+
+For the reevaluation I changed two ifs for an if-elif and added a condition to exit one of the while loops.
