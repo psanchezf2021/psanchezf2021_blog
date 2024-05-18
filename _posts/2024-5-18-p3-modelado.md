@@ -10,5 +10,5 @@ title: p3 modelado
 ![imu_sand](https://github.com/psanchezf2021/psanchezf2021_blog/assets/92941198/1fadb3ef-ec53-462d-881a-3a662589b9b2)
 
 
-https://github.com/psanchezf2021/psanchezf2021_blog/assets/92941198/273f2ac1-96b0-4985-966d-3ff062a50a9b
 
+[Video parte a]([https://www.genome.gov/](https://github.com/psanchezf2021/psanchezf2021_blog/assets/92941198/273f2ac1-96b0-4985-966d-3ff062a50a9b))
