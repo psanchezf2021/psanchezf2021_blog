@@ -9,10 +9,12 @@ title: p3 modelado
 ![pub_vel_sand](https://github.com/psanchezf2021/psanchezf2021_blog/assets/92941198/1861ac11-b0d1-4154-bc5a-28454fa79807)
 ![imu_sand](https://github.com/psanchezf2021/psanchezf2021_blog/assets/92941198/1fadb3ef-ec53-462d-881a-3a662589b9b2)
 
+[Video trayectoria floor](https://github.com/psanchezf2021/psanchezf2021_blog/assets/92941198/5da200f2-4434-4d71-a65c-5998f8d2bfc1)
 
-
-[Video parte a](https://github.com/psanchezf2021/psanchezf2021_blog/assets/92941198/273f2ac1-96b0-4985-966d-3ff062a50a9b)
+[Video trayectoria sand](https://github.com/psanchezf2021/psanchezf2021_blog/assets/92941198/01a8ffe1-cbc1-41a5-9669-3023951ecfb0)
 
 [Rosbag floor](https://github.com/psanchezf2021/psanchezf2021_blog/tree/master/grabacion_floor)
 
 [Rosbag sand](https://github.com/psanchezf2021/psanchezf2021_blog/tree/master/grabacion_sand)
+
+[Video parte a](https://github.com/psanchezf2021/psanchezf2021_blog/assets/92941198/273f2ac1-96b0-4985-966d-3ff062a50a9b)
