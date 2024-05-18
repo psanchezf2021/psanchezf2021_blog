@@ -15,4 +15,4 @@ title: p3 modelado
 
 [Rosbag floor](https://github.com/psanchezf2021/psanchezf2021_blog/tree/master/grabacion_floor)
 
-[Rosbag floor](https://github.com/psanchezf2021/psanchezf2021_blog/tree/master/grabacion_sand)
+[Rosbag sand](https://github.com/psanchezf2021/psanchezf2021_blog/tree/master/grabacion_sand)
