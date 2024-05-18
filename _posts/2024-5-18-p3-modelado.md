@@ -12,3 +12,7 @@ title: p3 modelado
 
 
 [Video parte a](https://github.com/psanchezf2021/psanchezf2021_blog/assets/92941198/273f2ac1-96b0-4985-966d-3ff062a50a9b)
+
+[Rosbag floor](https://github.com/psanchezf2021/psanchezf2021_blog/tree/master/grabacion_floor)
+
+[Rosbag floor](https://github.com/psanchezf2021/psanchezf2021_blog/tree/master/grabacion_floor)
