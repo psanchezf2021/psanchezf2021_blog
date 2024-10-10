@@ -9,6 +9,8 @@ With that done I started working on the transformation of coordinates from 3d to
 
 Then I started working of the movement and I decided to simplify it, just go to x and y coordinates with two proportional controllers, one for linear and the other for angular speed. It is not perfect, but it works.
 
+Finally I started working on the most important part, the planning. The idea is for it to leave as a ressult a list of coordinates the robot would follow. For the exploration I used BSA and for searching for the return points I used BFS.
+
 [video plan.webm](https://github.com/user-attachments/assets/53f431a1-144c-4e37-a486-0878f6a4b041)
 
 
