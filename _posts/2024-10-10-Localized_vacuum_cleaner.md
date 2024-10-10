@@ -10,3 +10,9 @@ With that done I started working on the transformation of coordinates from 3d to
 Then I started working of the movement and I decided to simplify it, just go to x and y coordinates with two proportional controllers, one for linear and the other for angular speed. It is not perfect, but it works.
 
 [video plan.webm](https://github.com/user-attachments/assets/53f431a1-144c-4e37-a486-0878f6a4b041)
+
+
+[video ejecucion.webm](https://github.com/user-attachments/assets/658ef83e-6ea0-4f39-afdc-6aa0a97778b9)
+
+
+The video is not complete becouse if i filmed the whole thing it wouldn't be done in time.
