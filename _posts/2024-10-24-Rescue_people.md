@@ -10,3 +10,5 @@ Then I started working on the algorithm of the spiral. At first, I thought about
 For the face detection I basically used the function detectMultiscale for opencv. The problem was, it does not detect faces that are not straight. For the detection to work I rotated each frame 12 times with a rotation matrix. But it was not detecting the faces correctly yet, so I started changing the parameters of detectMultiscale in order for the 6 faces to be counted and their locations saved.
 
 Lastly, I transformed the coordinates of the survivors to UTM and then to GPS using the library utm.
+
+https://youtu.be/lQBv_QMzDsM
