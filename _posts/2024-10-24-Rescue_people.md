@@ -12,3 +12,5 @@ For the face detection I basically used the function detectMultiscale for opencv
 Lastly, I transformed the coordinates of the survivors to UTM and then to GPS using the library utm.
 
 https://youtu.be/lQBv_QMzDsM
+
+In the video, only 5 people are detected, I am not sure why, as I have tested the program with the same parameters and it has detected everyone.
