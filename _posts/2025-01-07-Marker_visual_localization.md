@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Follow line
+title: Marker visual localization
 ---
