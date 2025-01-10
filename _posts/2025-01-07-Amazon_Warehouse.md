@@ -12,4 +12,4 @@ With all this done, all that was left was to take into account the geometry of t
 
 Lastly, I changed the main loop so the robot plans two times and lifts and drops the selves, wich needed an aextra function in order for the robot to look forward when lifting the selves.
 
-https://youtu.be/Ewdp_EEa_Lo
+[p5.mp4](https://youtu.be/Ewdp_EEa_Lo)
