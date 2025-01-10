@@ -11,3 +11,5 @@ When I resumed this practice, I started checking where were my mistakes and by d
 With all this done, all that was left was to take into account the geometry of the robot and of the selves. This was done by checking if the points inside of the rectangles that formed eather of theese were only white. The orientation was also taken into account by using opencv's geometry.
 
 Lastly, I changed the main loop so the robot plans two times and lifts and drops the selves, wich needed an aextra function in order for the robot to look forward when lifting the selves.
+
+https://youtu.be/Ewdp_EEa_Lo
